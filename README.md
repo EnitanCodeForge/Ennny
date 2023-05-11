@@ -8,7 +8,7 @@
 - 
 
 ## Connect with me:
-📫 How to reach me:<br/>
+📫 How to reach me:
 [<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website]
 
 [<img align="left" alt="enitanOgungbemi  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
