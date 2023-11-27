@@ -5,7 +5,7 @@
 - 🔭 I’m a `BI / Data Analyst`
 - 💬 Ask me about anything
 - 👨‍💻 My motto: Learn, grow, share, repeat.
-- 
+  
 
 ## Connect with me:
 
